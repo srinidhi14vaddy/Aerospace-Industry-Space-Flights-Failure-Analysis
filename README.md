@@ -4,3 +4,4 @@ Throughout history, many manned and unmanned space flights have failed due to ma
 
 The dataset is combined from SpaceX Missions from 2006-Present, Space Flights from companies such as Boeing, US Air Force, European Space Agency, Brazilian Space Agency and Arianespace. It also has weather conditions such as wind speed, temperature, humidity along with the date of the departure/launch of the mission acquired from the Weather History Reports. 
 
+The dataset is then fit to predictive models such as Random Forest, Logistic Regression, Naive Bayes and K-Nearest Neighbour with highest accuracy being 93.3% of both Logistic Regression and K-Nearest Neighbour.
